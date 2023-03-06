@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="162bdd63-8f72-49ba-91ce-5a4f486f93e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Async JavaScript_ Promises &amp; Callbacks/code/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Async JavaScript_ Promises &amp; Callbacks/code/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/assets/scripts/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/code/assets/scripts/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/assets/styles/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/code/assets/styles/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/code/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/code/assets/scripts/app.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +43,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677936645372</updated>
       <workItem from="1677936646919" duration="31000" />
-      <workItem from="1678019818529" duration="2382000" />
+      <workItem from="1678019818529" duration="2843000" />
+      <workItem from="1678068104942" duration="4023000" />
     </task>
     <servers />
   </component>
