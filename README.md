@@ -17,5 +17,5 @@ The reason why I initiate this project is that I want to review some intermediat
 
 - <a href="https://github.com/ascendho/JavaScript_Intermediate/tree/master/Async%20JavaScript_%20Promises%20%26%20Callbacks">Async JavaScript_ Promises & Callbacks</a>
 - <a href="https://github.com/ascendho/JavaScript_Intermediate/tree/master/Working%20with%20Http%20Requests">Working with Http Requests</a>
-- <a href="">Working with JavaScript Libraries</a>
+- <a href="https://github.com/ascendho/JavaScript_Intermediate/tree/master/Working%20with%20JavaScript%20Libraries/code">Working with JavaScript Libraries</a>
 
